@@ -23,7 +23,7 @@ namespace Tyuiu.VolodinaAA.Sprint3.TaskReview.V17.Lib
                 if ((x+1.7) == 0)
                 {
                     Console.WriteLine(0);
-                }
+                }  
             }
             return valueArray;
         }

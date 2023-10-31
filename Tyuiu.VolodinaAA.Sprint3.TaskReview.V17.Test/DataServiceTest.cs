@@ -8,7 +8,7 @@ namespace Tyuiu.VolodinaAA.Sprint3.TaskReview.V17.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void CheckGetMassFunctionValid()
+        public void CheckGetMassFunctionValid()  
         {
             DataService ds = new DataService();
             int startValue = -5;
